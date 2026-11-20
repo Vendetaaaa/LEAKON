@@ -1,3 +1,9 @@
+### language
+
+[Romanian] | [English]
+
+^^ Coming soon
+
 <div align="center">
 
 # Proiect de Cercetare și Inovație
