@@ -1,8 +1,6 @@
-### language
+### Limbi / Languages
 
-[Romanian] | [English]
-
-^^ Coming soon
+[Română](README.md) | [English](english/README.md)
 
 <div align="center">
 
