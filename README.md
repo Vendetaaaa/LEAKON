@@ -1,8 +1,6 @@
-### language
+### Limbi / Languages
 
-[Romanian] | [English]
-
-^^ Coming soon
+[Română](README.md) | [English](english/README.md)
 
 <div align="center">
 
@@ -49,13 +47,13 @@ RoSEF26-27/
 └── requirements.txt
 ```
 
-### Etica proiectului se poate găsii în [docs/ethics.md](https://github.com/Vendetaaaa/RoSEF26-27/blob/main/docs/ethics.md)
+### Etica proiectului se poate găsii în [docs/ethics.md](https://github.com/Vendetaaaa/LEAKON/blob/main/docs/ethics.md)
 
 ---
 
 # Ideea centrală
 
-Proiectul de cercetare "arithmetic_concurrence" din [papers/arithmetic_concurrence.pdf](https://github.com/Vendetaaaa/RoSEF26-27/blob/main/papers/arithmetic_concurrence.pdf) demonstrează două teoreme exacte despre concurența a k
+Proiectul de cercetare "arithmetic_concurrence" din [papers/arithmetic_concurrence.pdf](https://github.com/Vendetaaaa/LEAKON/blob/main/papers/arithmetic_concurrence.pdf) demonstrează două teoreme exacte despre concurența a k
 familii de drepte generate de parametri mărginiți: concurența apare doar când există o relație rațională forțată între pante (1), iar pentru k familii generice, condiția devine tot mai rigidă și mai improbabilă pe măsură ce k crește (2).
 
 Această problemă se aseamănă foarte mult cu cea din atacurile asupra semnăturii criptografice [ECDSA](https://en.wikipedia.org/wiki/Elliptic_Curve_Digital_Signature_Algorithm): HNP ( [Hidden Number Problem](https://github.com/kelbyludwig/notebooks/blob/master/The%20Hidden%20Number%20Problem.ipynb) ) folosit pentru a ataca și recupera sute de chei private reale Bitcoin, Ethereum și SSH prin scurgerile minore de informație de nonce (Breitner și Heninger, 2019, „Biased Nonce Sense”).
@@ -101,7 +99,7 @@ Scopul acestei etape este de a verifica dacă teoria poate fi realitate.
 
 ### #HappyCoding
 
-> Notă importantă, de acum, anumite informații legate de succesul acestui pipeline va fi ținut drept "secret" pentru a preveni anumite probleme / erori; citiți [docs/some-results.md](https://github.com/Vendetaaaa/RoSEF26-27/blob/main/docs/some-results.md) pentru mai multe detalii.
+> Notă importantă, de acum, anumite informații legate de succesul acestui pipeline va fi ținut drept "secret" pentru a preveni anumite probleme / erori; citiți [docs/some-results.md](https://github.com/Vendetaaaa/LEAKON/blob/main/docs/some-results.md) pentru mai multe detalii.
 
 </div>
 
@@ -110,7 +108,7 @@ Scopul acestei etape este de a verifica dacă teoria poate fi realitate.
 **Vrei să ne susții? Ai mai multe opțiuni!**
 1. "Star" sau "Watch" acest proiect!
 2. Follow [Vendeta](https://github.com/Vendetaaaa) și [RaresInsine](https://github.com/RaresInsine)
-3. Partajează acest proiect prin link-ul: [Github](https://github.com/Vendetaaaa/RoSEF26-27)
+3. Partajează acest proiect prin link-ul: [Github](https://github.com/Vendetaaaa/LEAKON)
 4. Partajează acest proiect prin website-ul: [Leakon](https://leakon.tech/)
 5. Partajează codurile QR!
 

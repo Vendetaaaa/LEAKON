@@ -3,7 +3,7 @@ window.ROSEF_DATA = {
     "siteTitle": "Signal → Learning → Recovery",
     "project": "RoSEF26–27",
     "paperTitle": "ECDSA Private-Key Recovery from Partial Nonce Leakage",
-    "repoUrl": "https://github.com/Vendetaaaa/RoSEF26-27",
+    "repoUrl": "https://github.com/Vendetaaaa/LEAKON",
     "dataset": 160,
     "traceLength": 256,
     "leakedBits": 12,
