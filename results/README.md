@@ -54,6 +54,10 @@ Acest proiect a fost copiat "git clone" de 1200 în ultimile 2 săptămâni ( ce
 
 De asemenea a fost vizionat de 430 tot în ultimile 2 săptămâni ( echivalent la 2.8k persoane unice )
 
+### Update
+
+S-a ajuns la 11k git clones și 5k views - 11/23/26 
+
 # Vă Mulțumim! <3333333
 
 <p align="center">
