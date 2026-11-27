@@ -18,7 +18,7 @@ ONCS 2027: [Henea Rareș](https://github.com/Vendetaaaa) & [Stadler Rareș](http
 </br>
 
 ### Găsiți-ne aici:
-[LINK 1](https://www.pitchhut.com/project/leakon-research)
+[LINK 1 - Pitchhut](https://www.pitchhut.com/project/leakon-research)
 
 </br>
 
