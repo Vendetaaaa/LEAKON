@@ -13,6 +13,7 @@
 ### Contribuitori:
 RoSEF 2026: [Henea Rareș](https://github.com/Vendetaaaa) & [Stadler Rareș](https://github.com/RaresInsine) - premiul I, medalie de aur, 100/100
 
+ONCS 2027: [Henea Rareș](https://github.com/Vendetaaaa) & [Stadler Rareș](https://github.com/RaresInsine) - curând
 ### [Showroom LEAKON](https://leakon.tech/)
 
 </div>
